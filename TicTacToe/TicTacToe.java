@@ -54,6 +54,7 @@ public class TicTacToe {
         int count = 0;
         getName();
         toss();
+        
         while (count<rounds) {
 
             dupCount = count+1;
