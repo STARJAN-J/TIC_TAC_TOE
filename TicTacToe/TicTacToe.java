@@ -53,8 +53,7 @@ public class TicTacToe {
         System.out.println("So your game contains "+rounds+" round.\n");
         int count = 0;
         getName();
-        toss();
-        
+        toss();        
         while (count<rounds) {
 
             dupCount = count+1;
