@@ -1,6 +1,6 @@
 # TicTacToe Game in Java
 
-Welcome to the TicTacToe game repository written in Java! This simple console-based game allows two players to engage in the classic TicTacToe challenge. The game is implemented using fundamental concepts in Java programming.
+Welcome to the TicTacToe game repository written in Java! This simple console-based game allows two players to engage in the classic TicTacToe challenge. The game is implemented using fundamental and arrays concepts in Java programming.
 
 # Features:
 
