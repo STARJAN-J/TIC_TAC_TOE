@@ -1,6 +1,6 @@
 # |❌⭕| TicTacToe Game in Java
 
-Welcome to the TicTacToe game repository written in Java!     🎮
+### Welcome to the TicTacToe game repository written in Java!     🎮
 
 🕹️ This repository contains a classic Tic Tac Toe game implemented in Java. Enjoy a simple and intuitive gaming experience where two players take turns marking "X" and "O" on a 3x3 grid. The game ends when one player achieves three in a row or when the board is full.
 
